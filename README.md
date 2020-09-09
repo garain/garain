@@ -17,6 +17,7 @@
                                                                                                                                          
                                                                                                                                          
 ```
+[![HitCount](http://hits.dwyl.com/garain/garain.svg)](http://hits.dwyl.com/garain/garain)
 <img align="center" width="52%"  src="https://github-readme-stats.vercel.app/api?username=garain&show_icons=true&hide_border=true" alt="garain" />
 
 <!--
