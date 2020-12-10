@@ -18,8 +18,9 @@
                                                                                                                                          
 ```
 
-[![HitCount](http://hits.dwyl.com/garain/garain.svg)](http://hits.dwyl.com/garain/garain)
-<img align="center" width="52%"  src="https://github-readme-stats.vercel.app/api?username=garain&show_icons=true&hide_border=true" alt="garain" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=garain&show_icons=true&hide_border=true" alt="garain" /> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=garain"></img>
+
 
 <!--
 **garain/garain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -36,5 +37,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align="left"><img src="https://komarev.com/ghpvc/?username=garain" alt="garain" /> </p>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=garain"></img>
