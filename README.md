@@ -36,3 +36,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align="left"><img src="https://komarev.com/ghpvc/?username=garain" alt="garain" /> </p>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=garain"></img>
