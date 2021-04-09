@@ -37,3 +37,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align="left"><img src="https://komarev.com/ghpvc/?username=garain" alt="garain" /> </p>
+[![Garain's github trophy](https://github-profile-trophy.vercel.app/?username=garain&row=1)](https://github.com/ryo-ma/github-profile-trophy)
